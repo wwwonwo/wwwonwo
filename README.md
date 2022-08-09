@@ -4,3 +4,5 @@
 
 [![wwwonwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwonwo&theme=dark)](https://github.com/wwwonwo/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwonwo&layout=compact&theme=dark)](https://github.com/wwwonwo/github-readme-stats)
+
